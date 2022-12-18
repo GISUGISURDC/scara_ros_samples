@@ -23,7 +23,7 @@
         <joint name="arm4_joint" />
         <chain base_link="world" tip_link="arm4_link" />
     </group>
-    <group name "gripper">
+    <group name"gripper">
         <link name="arm5r_link" />
         <joint name="arm5r_joint" />
     </group>
