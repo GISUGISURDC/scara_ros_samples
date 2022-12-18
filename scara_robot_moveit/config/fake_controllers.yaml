@@ -5,3 +5,6 @@ controller_list:
       - arm2_joint
       - arm3_joint
       - arm4_joint
+  - name: fake_gripper_controller
+    joints:
+      - arm5r_joint
